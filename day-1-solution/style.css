@@ -29,5 +29,9 @@ body {
   margin: 0 auto;
 
   padding: 2em;
-  height: 300px;
+  /* height: 300px; - [MEANT TO BE OMITTED - COMMENTED TO SHOW WORK AND COMPLETE STEP 2] */
+}
+
+.intro-content {
+  width: 50%;
 }
